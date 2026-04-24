@@ -1,5 +1,7 @@
 # Car Price Prediction Model
 
+![App Screenshot](screenshot.png)
+
 This project is a Machine Learning based application that predicts the price of a used car based on several features like insurance validity, fuel type, kilometers driven, ownership type, and transmission type. The project includes a Jupyter Notebook for data exploration, preprocessing, and model training, and a Streamlit web application for an interactive user interface.
 
 ## Project Structure
