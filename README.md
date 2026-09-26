@@ -51,4 +51,4 @@ To run the Streamlit app locally on your machine, follow these steps:
    ```
 
 4. **View the app:**
-   The application will automatically open in your default web browser (usually at `http://localhost:8501`).
+   The application will automatically open in your default web browser.
